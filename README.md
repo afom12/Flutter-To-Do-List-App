@@ -11,9 +11,10 @@ A simple, responsive, and modern To-Do List App built with Flutter and Firebase.
 - 🧭 Smooth UI with Drawer Navigation and Tabs
 
 ## 📸 Screenshots
+__________________________________________________________________________________________________
 
-> _Add your app screenshots here if available_  
-> _You can use markdown image syntax: `![alt](link)`
+![Screenshot 2025-04-23 184934](https://github.com/user-attachments/assets/de90e212-3c67-4b69-87dd-f3a0935e307c)
+![Screenshot 2025-04-23 184953](https://github.com/user-attachments/assets/41f6c62c-23ee-4bc4-ae74-287da128c5ca)
 
 
 ## 📦 Built With
@@ -29,12 +30,6 @@ A simple, responsive, and modern To-Do List App built with Flutter and Firebase.
 - Flutter SDK installed
 - Firebase project created
 - Android/iOS emulator or real device
-
-__________________________________________________________________________________________________
-
-![Screenshot 2025-04-23 184934](https://github.com/user-attachments/assets/de90e212-3c67-4b69-87dd-f3a0935e307c)
-![Screenshot 2025-04-23 184953](https://github.com/user-attachments/assets/41f6c62c-23ee-4bc4-ae74-287da128c5ca)
-
 
 ### 🧪 Installation
 
