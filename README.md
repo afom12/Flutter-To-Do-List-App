@@ -5,7 +5,6 @@ A simple, responsive, and modern To-Do List App built with Flutter and Firebase.
 ## 🚀 Features
 
 
-
 - ✅ Add, edit, and delete tasks with images
 - 🔔 Real-time sync with Firebase Cloud Firestore
 - 📦 Offline storage using Hive/Shared Preferences
