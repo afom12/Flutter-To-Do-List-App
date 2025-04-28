@@ -3,7 +3,6 @@
 
 
 
-
 # 📝 Flutter To-Do List App
 
 A simple, responsive, and modern To-Do List App built with Flutter and Firebase. Easily organize your tasks, get notified, and stay productive every day!
